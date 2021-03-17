@@ -2,7 +2,7 @@
         ===============================
         *       Web Hacking Tools     *
         *       v.1                   *
-        *    By : github.com/MR-KaBuD    *
+        *   By : github.com/MR-KaBuD  *
         ===============================
  -->
 
