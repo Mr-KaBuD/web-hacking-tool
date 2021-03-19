@@ -2,10 +2,14 @@
 
 A web application for Hackers to Gather information about their targets .
 
+## screen shot :
+<img src="img/web-hacking.png">
+
+
 
 ## Use :
-install a program for run php codes (xampp)
-run this project in localhost
+install a program for run php codes (xampp)<br>
+run this project in localhost <br>
 and enjoy :)
 
 
@@ -16,6 +20,10 @@ and enjoy :)
 * sub domain finder
 * injection test
 
+
+
 ! Wait for the next updates :)
+
+
 
 ### Thanks .
